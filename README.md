@@ -1,6 +1,6 @@
 ## TodoApp mit Typescript
 
-- Wählen Sie Ihr Objekt aus und fangen Sie an, zu malen. Viel Spaß!....
+- Erstellen Sie Ihre eigene TodoList und geben Sie gleichzeitig ein Erledigungstag an...
 
 * [Der Link von Projekt](https://todo-app-typescript-jfxz6ycfo-semihbeyzade.vercel.app/)
 
