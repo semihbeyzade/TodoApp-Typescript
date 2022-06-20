@@ -1,2 +1,2 @@
-# TodoApp with typescript
+# TodoApp with Typescript
 
