@@ -13,7 +13,7 @@ body{
 
 .header{
   flex: 30%;
-  background-color: tomato;
+  background-color: #A5BECC;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -53,6 +53,7 @@ body{
   align-items: center;
   padding-top: 50px;
   flex-direction: column;
+  background-color: #F2EBE9;
 }
 
 .task{
@@ -79,5 +80,5 @@ body{
   height: 100%;
   font-size: 18px;
   border-right: none;
-  background-color: tomato;
+  background-color: #A5BECC;
 }
