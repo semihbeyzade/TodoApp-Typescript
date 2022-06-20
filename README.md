@@ -2,7 +2,7 @@
 
 - Erstellen Sie Ihre eigene TodoList und geben Sie gleichzeitig ein Erledigungstag an...
 
-* [Der Link von Projekt](https://todo-app-typescript-jfxz6ycfo-semihbeyzade.vercel.app/)
+* [Der Link von Projekt](https://todoapp-with-typescript.netlify.app/)
 
 
 ## Tools
