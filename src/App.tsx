@@ -42,7 +42,7 @@ const App: FC = () => {
        <input type="number" 
        placeholder="Deadline (in Days)..." 
        name='deadline' 
-       value={deadline}
+       /* value={deadline} */
        onChange={handleChange} />
        </div>
        <button onClick={addTask}>Add Task  &#9997;</button>
