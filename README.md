@@ -1,4 +1,4 @@
-## TodoApp mit Typescript
+## Todo-App mit Typescript
 
 - Erstellen Sie Ihre eigene TodoList und geben Sie gleichzeitig ein Erledigungstag an...
 
