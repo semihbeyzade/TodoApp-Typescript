@@ -7,7 +7,7 @@
 
 ## Tools
 
-- Frontend : React, Typescript, CSS
+- Frontend : React, React-Hoooks, Typescript, CSS
 
 - Tools : Github, VSCode, Vercel 
 
